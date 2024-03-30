@@ -1,4 +1,3 @@
-# TLDR
 Homework assignment in which students must train a convolutional neural network (CNN) to drive a car using Behavioral Cloning on OpenAI Gym's implementation of CarRacer.
 
 # OpenAI CarRacing with Behavioral Cloning
