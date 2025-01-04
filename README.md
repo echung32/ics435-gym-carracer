@@ -30,4 +30,4 @@ The first cell downloads the data and installs many of the dependencies needed t
 3. Upload a video of your best agent to [this google drive]([https://drive.google.com/drive/folders/1Hk4PTqfr5A3BeW2m3mgAuQmbxo_Z-8AK?usp=sharing](https://drive.google.com/drive/u/1/folders/11PlWaXvLYgVHY55vMEvKwWECsp1hO0wH)). (Feel free to also upload any funny or interesting behavior.)
 
 ## Best-agent Video
-![Video](https://github.com/echung32/ics435-gym-carracer/blob/main/final_video.mp4)
+https://github.com/user-attachments/assets/829a4c58-45cd-415b-84aa-3066ac482a02
