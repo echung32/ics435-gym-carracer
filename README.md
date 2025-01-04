@@ -28,3 +28,6 @@ The first cell downloads the data and installs many of the dependencies needed t
 1. Your code as a jupyter notebook.
 2. A description of your agent model and its performance. Include this description after your code in the jupyter notebook. I don't expect you to do extensive hyperparameter tuning, but you **must** describe the performance of your model on a validation set using the appropriate metrics so that you know when you are overfitting.
 3. Upload a video of your best agent to [this google drive]([https://drive.google.com/drive/folders/1Hk4PTqfr5A3BeW2m3mgAuQmbxo_Z-8AK?usp=sharing](https://drive.google.com/drive/u/1/folders/11PlWaXvLYgVHY55vMEvKwWECsp1hO0wH)). (Feel free to also upload any funny or interesting behavior.)
+
+## Best-agent Video
+![Video](https://github.com/echung32/ics435-gym-carracer/blob/main/final_video.mp4)
